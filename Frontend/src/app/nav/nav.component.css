@@ -1,0 +1,43 @@
+.navbar-brand {
+    color: rgb(141, 32, 32);
+    font-weight: 500;
+    margin-left: 50px;
+}
+
+.nav-item{
+    justify-content: center;
+    color: rgb(141, 32, 32);;
+}
+
+.btn-register {
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    width: 80px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(252, 228, 228);
+    border-color: none;
+    margin: 3px;
+    font-weight: bold;
+   
+}
+
+.btn-register:hover {
+    background-color: rgb(249, 197, 197);
+}
+
+.btn-sign {
+    background-color: rgb(218, 95, 95);
+    color: white;
+    padding: 10px;
+    width: 80px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    font-weight: bold;
+    margin: 3px;
+}
+
+.btn-sign:hover {
+    background-color: rgb(208, 68, 68);
+}
