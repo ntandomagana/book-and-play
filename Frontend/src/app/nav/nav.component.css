@@ -4,11 +4,19 @@
     margin-left: 50px;
 }
 
+.container-fluid {
+    padding-top: 20px;
+    margin: 5px;
+}
+
 .nav-item{
     justify-content: center;
     color: rgb(141, 32, 32);;
 }
 
+.nav-link {
+    justify-content: center;
+}
 .btn-register {
     border: none;
     border-radius: 10px;
