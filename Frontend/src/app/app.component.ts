@@ -7,7 +7,7 @@ import { RegisterComponent } from './register/register.component';
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet, NavComponent, LoginComponent, RegisterComponent],
+  imports: [RouterOutlet, NavComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
