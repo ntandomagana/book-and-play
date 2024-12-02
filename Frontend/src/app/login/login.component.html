@@ -4,7 +4,7 @@
         <h4>Login</h4>
       </div>
       <div class="card-body">
-        <form>
+        <form [formGroup]="loginForm">
           <div class="mb-3">
             <label for="loginEmail" class="form-label">Email address</label>
             <input type="email" class="form-control" id="loginEmail" placeholder="Enter your email" required>
