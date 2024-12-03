@@ -1,0 +1,23 @@
+.btn-submit{
+    border: none;
+    border-color: none;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 10px;
+    width: 80px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(0, 0, 0);
+
+    margin: 3px;
+    font-weight: bold;
+}
+
+.register-here {
+    color: rgb(106, 106, 249);
+    cursor: pointer;
+
+}
+
+.register-here:hover {
+    color: rgb(0, 0, 200);
+}
