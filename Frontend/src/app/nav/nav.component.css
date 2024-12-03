@@ -17,7 +17,7 @@
 .nav-link {
     justify-content: center;
 }
-.btn-register {
+.btn-nav-register {
     border: none;
     border-radius: 10px;
     padding: 10px;
@@ -30,13 +30,13 @@
    
 }
 
-.btn-register:hover {
+.btn-nav-register:hover {
     background-color: rgb(249, 197, 197);
 }
 
-.btn-sign {
+.btn-nav-login{
     background-color: rgb(218, 95, 95);
-    color: white;
+    color: black;
     padding: 10px;
     width: 80px;
     border-radius: 10px;
@@ -46,7 +46,7 @@
     margin: 3px;
 }
 
-.btn-sign:hover {
+.bbtn-nav-login:hover {
     background-color: rgb(208, 68, 68);
 }
 
