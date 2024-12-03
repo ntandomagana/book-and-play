@@ -1,10 +1,13 @@
+
+
+
 .btn-login {
     border: none;
     border-radius: 10px;
     padding: 10px;
     width: 80px;
-    color: rgb(0, 0, 0);
-    background-color: rgb(76, 196, 247);
+    color: white;
+    background-color: rgb(218, 95, 95);
     border-color: none;
     outline: none;
     margin: 3px;
@@ -12,6 +15,10 @@
 }
 
 span {
-    color: blue;
+    color: rgb(245, 79, 79);
     text-decoration: underline;
+}
+
+.btn-login:hover {
+    background-color: rgb(208, 68, 68);
 }
